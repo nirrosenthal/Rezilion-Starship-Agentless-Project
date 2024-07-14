@@ -1,0 +1,2 @@
+class AzureOperationError(Exception):
+    pass
